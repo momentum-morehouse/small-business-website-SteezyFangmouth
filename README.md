@@ -2,7 +2,7 @@
 
 ## Directions
 
-Your task is to build a three-page website for a small business, Lazy River Nursery and Garden Supply. The three pages are:
+Your task is to build a three-page website for a small business, . The three pages are:
 
 - A home page (`index.html`)
 - "Currently In Stock" - a page of plants they currently have in stock (`in-stock.html`)
